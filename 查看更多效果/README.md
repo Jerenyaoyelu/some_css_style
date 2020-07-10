@@ -1,8 +1,11 @@
 # CSS 移动端 文字淡出+查看更多效果
 
 Author：Jeren -  极客前端研发工程师
+
 Date：2020.6.28
+
 Keywords：css、linear-gradient、position、overflow、移动端
+---------------------------------------------------------------------------------------
 
 ## 一、问题
 在手机移动端需要展示很长一段文字时，全部展示，篇幅过大，影响整体设计；固定高度，使用滚动条，用户体验不佳。
@@ -14,7 +17,7 @@ Keywords：css、linear-gradient、position、overflow、移动端
 
 ## 三、先看看最终效果
 
-![](./check_more.gif)
+![](./check_more.png)
 
 ## 四、如何实现
 1. 思路
