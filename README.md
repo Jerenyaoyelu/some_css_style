@@ -8,10 +8,13 @@
 [Demo and Source Code on CodePen](https://codepen.io/jerenyaoyelu/pen/WNrmMNa)
 
 ## 2. Highlight tag and blur background by clicking
+![](./tag-highlight/tags.png)
 
+[Demo and Source Code on CodePen](https://codepen.io/jerenyaoyelu/pen/yLewvEN)
 
 
 
 ---------------------------------------------------------------------------------------
 > Open and Free By Yaoye(Jeren) Lu
-> Welcome to join me and make contribute to this repo
+
+> Welcome to join me and make contributions to this repo
